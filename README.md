@@ -9,7 +9,7 @@
 ### 🚀 Чем я занимаюсь
 - **Управление проектами и Delivery:** Выстраиваю процессы в командах (до 30+ специалистов), управляю портфелями проектов и бюджетами, внедряю гибридные методологии (Agile/Kanban) для предсказуемого результата.
 - **AI-Автоматизация:** Создаю кастомных AI-агентов для ликвидации рутины. Перевожу "узкие места" бизнеса в автоматизированные процессы с измеримым ROI и сэкономленными часами.
-- **Технологии и Инструменты:** LLM (Claude 3.5, Gemini Pro, GPT-4o), n8n, RAG, Bitrix24, Jira, Roistat.
+- **Технологии и Инструменты:** Python, LLM (Claude 3.5, Gemini Pro, GPT-4o), RAG, amoCRM, Bitrix24, 1С:Фитнес, Jira, Roistat.
 
 ### 🏆 Главные AI-кейсы
 * **ИИ-контролер бизнес-процессов:** Полностью отменил ежедневные статус-созвоны и сократил потери трекинга времени с 10 часов в неделю до **0** (на команду из 20 человек).
@@ -23,11 +23,11 @@
 
 ### 🛠️ Технологии и Навыки
 <p align="left">
-  <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Product_Management-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Product Management" /></a>
-  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Agile_&_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile & Scrum" /></a>
-  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n_Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Automation" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLM Agents" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Data_&_Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Analytics" /></a>
+  <a href="https://www.amocrm.ru/"><img src="https://img.shields.io/badge/amoCRM-000000?style=for-the-badge" alt="amoCRM" /></a>
+  <a href="https://1c.ru/"><img src="https://img.shields.io/badge/1C:Фитнес-FFCC00?style=for-the-badge&logoColor=black" alt="1C" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Agile_&_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile & Scrum" /></a>
 </p>
 
 ### 📫 Контакты

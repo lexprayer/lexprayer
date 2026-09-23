@@ -1,36 +1,36 @@
 <div align="center">
-  <h1>Hi, I'm Alexander Kudryavtsev! 👋</h1>
-  <h3>Head of PMO / Delivery Director | AI-Transformation & Automation</h3>
-  <p>I build scalable product teams, manage project portfolios, and automate business processes with AI agents.</p>
+  <h1>Привет, я Александр Кудрявцев! 👋</h1>
+  <h3>Директор проектного офиса (Head of PMO) | AI-Трансформатор</h3>
+  <p>Строю масштабируемые продуктовые команды, управляю портфелями проектов и автоматизирую бизнес-процессы с помощью AI-агентов.</p>
 </div>
 
 ---
 
-### 🚀 What I Do
-- **Project & Delivery Management:** Scaling teams (30+ professionals), managing large project portfolios, and implementing hybrid Agile/Kanban methodologies to ensure delivery predictability.
-- **AI-Driven Automation:** Building custom AI agents to eliminate routine. I translate business bottlenecks into automated workflows with tangible ROI and saved hours.
-- **Tech & Tools:** LLMs (Claude, Gemini, GPT-4), n8n, RAG, Bitrix24, Jira, Roistat.
+### 🚀 Чем я занимаюсь
+- **Управление проектами и Delivery:** Выстраиваю процессы в командах (до 30+ специалистов), управляю портфелями проектов и бюджетами, внедряю гибридные методологии (Agile/Kanban) для предсказуемого результата.
+- **AI-Автоматизация:** Создаю кастомных AI-агентов для ликвидации рутины. Перевожу "узкие места" бизнеса в автоматизированные процессы с измеримым ROI и сэкономленными часами.
+- **Технологии и Инструменты:** LLM (Claude 3.5, Gemini Pro, GPT-4o), n8n, RAG, Bitrix24, Jira, Roistat.
 
-### 🏆 Key AI Implementations
-* **"Ludochka" (AI Process Manager):** Eliminated daily status calls and reduced time-tracking losses for a 20-person team from 10 hrs/week down to **0**.
-* **"Lily" (CRM Assistant):** Slashed lead response SLA from 48 hours down to **1-2 hours** for the sales team by automating CRM quality control.
-* **PM Automation:** Built a pipeline for auto-transcription and task generation from meetings, saving up to **2 hours** of PM time daily.
+### 🏆 Главные AI-кейсы
+* **"Людочка" (AI-менеджер процессов):** Полностью отменила ежедневные статус-созвоны и сократила потери трекинга времени с 10 часов в неделю до **0** (на команду из 20 человек).
+* **"Lily" (AI-помощник в CRM):** Сократила SLA ответа на лиды с 48 часов до **1-2 часов** для отдела продаж за счет автоматического контроля заполнения CRM.
+* **PM-Автоматизация:** Внедрил пайплайн для авто-транскрибации встреч и постановки задач, что экономит до **2 часов** времени ПМа каждый день.
 
-### 💼 Selected Experience
-* **Head of PMO (Business Mentor / IT-Agency):** Built a matrix management structure and successfully implemented Scrumban, blending product rituals with support SLAs.
-* **CPO / PM (Beautery.ru):** Redesigned the checkout flow, boosting retention by **25%** within the first month.
+### 💼 Ключевой опыт управления
+* **Head of PMO (Business Mentor / IT-Агентство):** Построил матричную структуру управления и успешно внедрил Scrumban, объединив продуктовую гибкость (Agile) и жесткие SLA поддержки.
+* **CPO / PM (Beautery.ru):** Спроектировал и внедрил новый 1-step checkout, увеличив Retention на **25%** за первый месяц после релиза.
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Технологии и Навыки
 <p align="left">
-  <img src="https://img.shields.io/badge/Product_Management-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Product Management" />
-  <img src="https://img.shields.io/badge/Agile_&_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile & Scrum" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Automation" />
-  <img src="https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Agents" />
-  <img src="https://img.shields.io/badge/Data_&_Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Analytics" />
+  <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Product_Management-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Product Management" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Agile_&_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile & Scrum" /></a>
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n_Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Automation" /></a>
+  <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLM Agents" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Data_&_Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Analytics" /></a>
 </p>
 
-### 📫 Let's Connect!
+### 📫 Контакты
 <p align="left">
-  <a href="https://save-point.ru/"><img src="https://img.shields.io/badge/Portfolio-save--point.ru-blue?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://save-point.ru/"><img src="https://img.shields.io/badge/Портфолио-save--point.ru-blue?style=for-the-badge" alt="Portfolio" /></a>
   <a href="mailto:lexprayer@gmail.com"><img src="https://img.shields.io/badge/Email-lexprayer%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
